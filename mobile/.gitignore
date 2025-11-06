@@ -1,3 +1,33 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+
+# Android
+android/.gradle/
+android/.cxx/
+android/local.properties
+android/key.properties
+android/app/*.keystore
+android/app/*.jks
+
+# iOS (if added later)
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
 # Miscellaneous
 *.class
 *.log

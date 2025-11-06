@@ -13,8 +13,11 @@ build/
 .env
 uploads/
 models/
+models/training_data/
 vector_db/
+logs/
 *.log
+data/
 .pytest_cache/
 .coverage
 htmlcov/
