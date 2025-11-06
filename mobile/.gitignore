@@ -25,6 +25,7 @@ ios/Flutter/ephemeral/
 .idea/
 .vscode/
 *.iml
+.cursor/plans
 
 # Logs
 *.log
