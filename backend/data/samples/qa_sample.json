@@ -1,0 +1,13 @@
+{
+  "context": "The AI Document Analysis System provides end-to-end document understanding. \n        It performs OCR, entity extraction, summarization, and question answering. The system \n        uses multiple AI models including BERT for NER, BART for summarization, and RoBERTa for QA.",
+  "qa_pairs": [
+    {
+      "question": "What does the AI Document Analysis System do?",
+      "answer": "provides end-to-end document understanding"
+    },
+    {
+      "question": "Which model is used for question answering?",
+      "answer": "RoBERTa"
+    }
+  ]
+}

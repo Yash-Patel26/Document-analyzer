@@ -1,0 +1,20 @@
+{
+  "text": "John Smith works at Microsoft Corporation in Seattle. He is a software engineer.",
+  "entities": [
+    {
+      "text": "John Smith",
+      "type": "PER",
+      "start": 0
+    },
+    {
+      "text": "Microsoft Corporation",
+      "type": "ORG",
+      "start": 20
+    },
+    {
+      "text": "Seattle",
+      "type": "LOC",
+      "start": 47
+    }
+  ]
+}
