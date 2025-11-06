@@ -1,0 +1,5 @@
+./cursor
+./backend/data/
+./backend/models/training_data/
+.venv/
+*.log
